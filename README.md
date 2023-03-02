@@ -43,4 +43,9 @@ npm i
 ## License
 Unlicensed
 
+## Example
+
+<img width="906" alt="Screenshot 2023-03-01 at 7 58 28 PM" src="https://user-images.githubusercontent.com/89316044/222327742-61c963ac-16d0-4024-ac33-55c462743fa2.png">
+
+
 
