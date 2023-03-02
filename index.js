@@ -24,7 +24,7 @@ const generateREADME = ({ title, description, installation, usage, contribution,
 { return `
 ${showBadge(license)}
 
-# <${title}>
+# ${title}
 
 ## Description
 ${description}
@@ -36,8 +36,8 @@ ${description}
 ${showLicenseLink(license)}
 - [How to contribute](#contribution)
 - [Tests](#tests)
-- [Github](#github)
-- [Email](#email)
+- [Github Username](#github)
+- [Email Address](#email)
 
 ## Installation
 ${installation}
@@ -56,10 +56,10 @@ ${features}
 ## Tests
 ${tests}
 
-## GitHub Username
+## GitHub
 ${github}
 
-## Email Address
+## Email
 ${email}`};
 
 

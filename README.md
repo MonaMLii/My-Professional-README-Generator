@@ -1,11 +1,11 @@
-# <My-Professional-README-Generator>
+# My-Professional-README-Generator
 
 ## Description
 
 Challenge 9 - Create professional README generator
 
 ## Table of Contents 
-- [](#)
+- [My-Professional-README-Generator](#my-professional-readme-generator)
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)

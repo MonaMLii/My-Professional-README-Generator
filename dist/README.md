@@ -1,10 +1,10 @@
 
 ![](https://img.shields.io/badge/license-MIT-green)
 
-# <test>
+# README Generator
 
 ## Description
-test
+challenge 9
 
 ## Table of Contents
 
@@ -13,11 +13,11 @@ test
 - [License](#license)
 - [How to contribute](#contribution)
 - [Tests](#tests)
-- [Github](#github)
-- [Email](#email)
+- [Github Username](#github)
+- [Email Address](#email)
 
 ## Installation
-test
+npm i
 
 ## Usage
 test
@@ -35,8 +35,8 @@ test
 ## Tests
 test
 
-## GitHub Username
-test
+## GitHub
+MonaMLii
 
-## Email Address
-test
+## Email
+missermona@gmail.com
